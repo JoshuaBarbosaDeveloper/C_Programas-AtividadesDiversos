@@ -1,0 +1,9 @@
+ID - Número de Identificação
+dono - Nome do Dono
+cell - Telefone para contato
+esp - Espécie
+nick - Nome do Animal
+raca - Raça do Animal
+sexo - Sexo do Animal
+idade - Idade do Animal
+
